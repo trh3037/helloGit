@@ -2,3 +2,5 @@ git is good!
 git is good2
 creating a new branch dev!
 Creating a new branch is quick AND simple.
+
+stash
